@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marciellioliveira
-- 👀 I’m interested in working with React Native, React.js, Vue.js, Angular or Wordpress and I love to share my knowledge on my blog about Woman, Tecnology and Information at www.tecgirl.com.br.
+- 👀 I’m interested in working with Javascript, Node.js, React Native, React.js, Vue.js, Angular or Wordpress and I love to share my knowledge on my blog about Woman, Tecnology and Information at www.tecgirl.com.br.
 - 🌱 I’m currently learning javascript and React Native.
 - 💞️ I’m looking to collaborate on projects that matter in the accessibility area.
 - 📫 How to reach me:
