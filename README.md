@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 - Linkedin: https://www.linkedin.com/in/marciellioliveira/
 - Blog: www.tecgirl.com.br  
-- Portfólio: http://portfolio.tecgirl.com.br/
+- Portfólio: http://marciellioliveira.tecgirl.com.br/
 
 <!---
 marciellioliveira/marciellioliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
